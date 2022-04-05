@@ -1,0 +1,10 @@
+(dp0
+S'summer'
+p1
+S'yellow'
+p2
+sS'passion'
+p3
+S'red'
+p4
+s.
